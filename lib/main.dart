@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:melchor/gridviewarticulos.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(AppleApp());
 } //Funcion Principal
 
-class MyApp extends StatelessWidget {
+class AppleApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
