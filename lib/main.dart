@@ -14,6 +14,6 @@ class AppleApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.green,
         ),
-        home: MyHomePage());
+        home: PaginaInicial());
   }
 } //Widget Sin Estado
